@@ -1,0 +1,8 @@
+{
+  "name": "timdiels1/photoswipe",
+  "description": "Fork for Drupal of the PhotoSwipe repository: JavaScript image gallery for mobile and desktop, modular, framework independent",
+  "type": "drupal-library",
+  "license": "MIT",
+  "homepage": "http://photoswipe.com",
+  "version": "4.1.1"
+}
